@@ -1,0 +1,6 @@
+C:\Users\w401\Desktop\Git\lottery\lottery\bin\Debug\lottery.exe.config
+C:\Users\w401\Desktop\Git\lottery\lottery\bin\Debug\lottery.exe
+C:\Users\w401\Desktop\Git\lottery\lottery\bin\Debug\lottery.pdb
+C:\Users\w401\Desktop\Git\lottery\lottery\obj\Debug\lottery.csprojResolveAssemblyReference.cache
+C:\Users\w401\Desktop\Git\lottery\lottery\obj\Debug\lottery.exe
+C:\Users\w401\Desktop\Git\lottery\lottery\obj\Debug\lottery.pdb
