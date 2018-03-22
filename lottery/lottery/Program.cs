@@ -27,8 +27,9 @@ namespace lottery
                 i++;
 
                 // 顯示亂數
-                Console.WriteLine("{0:00} {1:00} {2:00} {3:00} {4:00} {5:00} {6:00}", n1, n2, n3, n4, n5, n6 + "\n");
+                Console.WriteLine("第"+(i-1)+"組號碼:"+"{0:00} {1:00} {2:00} {3:00} {4:00} {5:00}", n1, n2, n3, n4, n5, n6);
             }
+                                   
 
             // 暫停並顯示
             Console.ReadLine();
